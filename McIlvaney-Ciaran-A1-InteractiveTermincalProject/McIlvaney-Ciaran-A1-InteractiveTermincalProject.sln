@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McIlvaney-Ciaran-A1-InteractiveTermincalProject", "McIlvaney-Ciaran-A1-InteractiveTermincalProject.csproj", "{BA20274B-FA4E-464A-8C30-E2D16E8760F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA20274B-FA4E-464A-8C30-E2D16E8760F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA20274B-FA4E-464A-8C30-E2D16E8760F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA20274B-FA4E-464A-8C30-E2D16E8760F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA20274B-FA4E-464A-8C30-E2D16E8760F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4EF068F-1E42-4753-8DCF-AB5B929B14DC}
+	EndGlobalSection
+EndGlobal
