@@ -1,1 +1,1 @@
-# game10003-a1-InteractiveTerminalProject
+This is a text based role playing game where you, the player must find your way home after there was a big detour on the main road. To play the game you will need to pick what you would like to do in certain scenerios. You will be given two options for each scenerio, and they will be labled in quotations ex: "Option 1" "Option 2". You must write down your anwser exactly as it it shown in the quotations otherwise it will not work and will give you an Invalid Anwser message.
